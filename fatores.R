@@ -2,11 +2,11 @@
 ###   ESTRUTURA DOS DADOS - FATORES   ###
 #########################################
 
-# Sequência de valores, definidos por níveis, comumente expressa variáveis categóricas.
+# SequÃªncia de valores, definidos por nÃ­veis, comumente expressa variÃ¡veis categÃ³ricas.
 # Facilita quando se deseja saber a quantidade de cada categoria.
 
 # Vetor
-escolaridade <- c("fundamental", "médio", "superior", "médio", "superior", "fundamental")
+escolaridade <- c("fundamental", "mÃ©dio", "superior", "mÃ©dio", "superior", "fundamental")
 print (escolaridade)
 
 
@@ -28,7 +28,7 @@ summary (escolaridade_fator)
 
 table(escolaridade)
 
-# Tensão elétrica em residências (110V, 220V)
+# TensÃ£o elÃ©trica em residÃªncias (110V, 220V)
 
 tensao_casas <- c(110, 220, 110, 110, 110, 110, 220)
 print(tensao_casas)
