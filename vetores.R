@@ -2,12 +2,12 @@
 ###   ESTRUTURA DOS DADOS - VETORES   ###
 #########################################
 
-# Sequência de valores numéricos ou caracteres
+# SequÃªncia de valores numÃ©ricos ou caracteres
 
 vetor <- c(1,2,3,4,5,6,7)
 class(vetor)
 
-dias <- c("segunda", "terça", "quarta", "quinta", "sexta", "sábado", "domingo")
+dias <- c("segunda", "terÃ§a", "quarta", "quinta", "sexta", "sÃ¡bado", "domingo")
 class(dias)
 
 juntando <- c(vetor, dias)
