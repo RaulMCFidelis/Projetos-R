@@ -1,5 +1,5 @@
 ##########################################################
-###    ESTRUTURA DE REPETI«√O : for, while e repeat    ###
+###    ESTRUTURA DE REPETI√á√ÉO : for, while e repeat    ###
 ##########################################################
 
 for (i in 1:10) {
